@@ -17,6 +17,7 @@
 #### Past
 Date / Link to Documents*
 
-* Access to MS Teams should be granted. Please contact anil.turkmayali@internationaldataspaces.org for having access to the MS Teams workspace.
+
+Access should be granted to be able to access the files . Please contact anil.turkmayali@internationaldataspaces.org for having access to the MS Teams workspace.
 
 
