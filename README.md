@@ -19,18 +19,36 @@ We aim to:
 
 This sub working group is positioned under [Working Group Architecture](https://github.com/International-Data-Spaces-Association/idsa/blob/main/Working-Groups/WG-Architecture.md) of IDSA and is for IDSA members. We invite you to collaborate with us in this crucial endeavor as we explore the frontiers of personal data and its potential interactions with the ever-evolving landscape of IDS.
 
-### Organizations Involved
+### Organizations/People Involved (alphabetically)
+Amadeus
+Arbetsformedlingen
+BVDS
+Engineering
+Fairsfair.org
+Fraunhofer FIT
+GMV
+IMEC
+Intellera Consulting
+MyData Global
+Post-platforms Initiative
+Söntje Julia Hilberg
+Startin' Blox
+T-Systems
+Tecnalia
+Vastuu Group
+Vereign
+Vlandeeren
+Visions
+Bert Verdonck
+
+### ▶️ Meetings and Documents 
+|#   	|Date| Number of Participants | Link to Files |
+|---	|---	|--- |--- |
+|3   	|Sep 26, 2023| Upcoming | | 
+|2   	|June 29, 2023|23 | [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/29-06-2023-Meeting-2?csf=1&web=1&e=IwDouO) |
+|1   	|May 22, 2023|38| [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/22-05-2023-KickoffMeeting?csf=1&web=1&e=u5rV2B) |
 
 
-
-### Meetings
-
-#### Upcoming
-
-#### Past
-Date / Link to Documents*
-
-
-Access should be granted to be able to access the files . Please contact anil.turkmayali@internationaldataspaces.org for having access to the MS Teams workspace.
+Access should be granted to be able to access the files . Please contact [anil.turkmayali@internationaldataspaces.org](mailto:anil.turkmayali@internationaldataspaces.org) for having access to the MS Teams workspace.
 
 
