@@ -21,24 +21,43 @@ This sub working group is positioned under [Working Group Architecture](https://
 
 ### Organizations/People Involved (alphabetically)
 Amadeus
+
 Arbetsformedlingen
+
 BVDS
+
 Engineering
+
 Fairsfair.org
+
 Fraunhofer FIT
+
 GMV
+
 IMEC
+
 Intellera Consulting
+
 MyData Global
+
 Post-platforms Initiative
+
 Söntje Julia Hilberg
+
 Startin' Blox
+
 T-Systems
+
 Tecnalia
+
 Vastuu Group
+
 Vereign
+
 Vlandeeren
+
 Visions
+
 Bert Verdonck
 
 ### ▶️ Meetings and Documents 
