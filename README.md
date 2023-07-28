@@ -3,6 +3,7 @@ Welcome to the Personal Data and IDS Sub Working Group! We are a dedicated team 
 
 In today's data-driven world, the exchange of personal data is becoming increasingly prevalent. As technology advances and new standards like IDS emerge, it is vital to ensure that individual rights and privacy are adequately safeguarded. Our primary purpose is to define the existing mechanisms through which IDS handles situations involving personal data and to envision how it should evolve to be more user-centric.
 
+
 ### Purpose and Mission Statement 🎯
 The core of our mission is to delve deep into how the IDS standard currently incorporates personal data considerations. We aim to identify any limitations or gaps that may hinder the seamless integration of personal data within IDS. Through collaborative efforts and insightful research, we aspire to propose practical and inclusive solutions to bridge these gaps effectively.
 
@@ -19,46 +20,10 @@ We aim to:
 
 This sub working group is positioned under [Working Group Architecture](https://github.com/International-Data-Spaces-Association/idsa/blob/main/Working-Groups/WG-Architecture.md) of IDSA and is for IDSA members. We invite you to collaborate with us in this crucial endeavor as we explore the frontiers of personal data and its potential interactions with the ever-evolving landscape of IDS.
 
+
 ### Organizations/People Involved (alphabetically) 🤝
-Amadeus
+Amadeus, Arbetsformedlingen, BVDS, Engineering, Fairsfair.org, Fraunhofer FIT, GMV, IMEC, Intellera Consulting, MyData Global, Post-platforms Initiative, Söntje Julia Hilberg, Startin' Blox, T-Systems, Tecnalia, Vastuu Group, Vereign, Vlandeeren, Visions, Bert Verdonck.
 
-Arbetsformedlingen
-
-BVDS
-
-Engineering
-
-Fairsfair.org
-
-Fraunhofer FIT
-
-GMV
-
-IMEC
-
-Intellera Consulting
-
-MyData Global
-
-Post-platforms Initiative
-
-Söntje Julia Hilberg
-
-Startin' Blox
-
-T-Systems
-
-Tecnalia
-
-Vastuu Group
-
-Vereign
-
-Vlandeeren
-
-Visions
-
-Bert Verdonck
 
 ### ▶️ Meetings and Documents 🗓️
 |#   	|Date| Number of Participants | Link to Files |
