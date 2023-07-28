@@ -68,6 +68,8 @@ Bert Verdonck
 |1   	|May 22, 2023|38| [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/22-05-2023-KickoffMeeting?csf=1&web=1&e=u5rV2B) |
 
 
-Access should be granted to be able to access the files . Please contact [anil.turkmayali@internationaldataspaces.org](mailto:anil.turkmayali@internationaldataspaces.org) for having access to the MS Teams workspace.
+Access should be granted to be able to access the files on MS Teams workspace. 
+
+Please contact [anil.turkmayali@internationaldataspaces.org](mailto:anil.turkmayali@internationaldataspaces.org) for having access to the MS Teams workspace.
 
 
