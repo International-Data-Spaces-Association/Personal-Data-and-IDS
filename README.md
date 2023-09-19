@@ -1,5 +1,5 @@
 # 📚 Personal Data and IDS Sub Working Group
-Welcome to the Personal Data and IDS Sub Working Group! We are a dedicated team of professionals seeking to unravel the intricate relationship between the IDS (International Data Spaces) standard and personal data sharing. Our mission is to explore and comprehend the convergence of these domains, with a specific focus on how individuals play a pivotal role within the IDS ecosystem.
+Welcome to the Personal Data and IDS Sub Working Group! We are a group of professionals seeking to unravel the intricate relationship between the IDS (International Data Spaces) standard and personal data sharing. Our mission is to explore and comprehend the convergence of these domains, with a specific focus on how individuals play a pivotal role within the IDS ecosystem.
 
 In today's data-driven world, the exchange of personal data is becoming increasingly prevalent. As technology advances and new standards like IDS emerge, it is vital to ensure that individual rights and privacy are adequately safeguarded. Our primary purpose is to define the existing mechanisms through which IDS handles situations involving personal data and to envision how it should evolve to be more user-centric.
 
