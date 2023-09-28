@@ -28,7 +28,7 @@ Amadeus, Arbetsformedlingen, BVDS, Engineering, Fairsfair.org, Fraunhofer FIT, G
 ### ▶️ Meetings and Documents 🗓️
 |#   	|Date| Link to Files |
 |---	|---	|--- |
-|3   	|Sep 26, 2023| [click here](https://digitalhubeu.sharepoint.com/:v:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/26-09-2023-Meeting-3/Personal%20Data%20and%20IDS%20SubWG%20Workshop%20(III)-20230926_120342-Meeting%20Recording.mp4?csf=1&web=1&e=1Codwt) | 
+|3   	|Sep 26, 2023| [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/26-09-2023-Meeting-3?csf=1&web=1&e=liRffR) | 
 |2   	|June 29, 2023| [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/29-06-2023-Meeting-2?csf=1&web=1&e=IwDouO) |
 |1   	|May 22, 2023| [click here](https://digitalhubeu.sharepoint.com/:f:/r/sites/IDSAPersonalDataSubWG/Freigegebene%20Dokumente/General/Meetings/22-05-2023-KickoffMeeting?csf=1&web=1&e=u5rV2B) |
 
