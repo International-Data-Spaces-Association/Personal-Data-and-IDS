@@ -10,7 +10,7 @@ We envision a digital society where individuals are at the center/forefront, abl
 ## Mission
 Our mission is to explore and understand the intersection between the  IDS standard and the realm of personal data sharing. We aim to enhance the IDS's user-centric approach, identifying and addressing gaps to improve its effectiveness and inclusivity regarding personal data.
 
-We are dedicated to deepening our understanding of how IDS integrates personal data considerations and proposing practical solutions to overcome these challenges. Ensuring interoperability is also crucial, applying technologies like MyData, IDS, and Solid from a personal data perspective.
+We are dedicated to deepening our understanding of how IDS integrates personal data considerations and proposing practical solutions to overcome these challenges. Ensuring interoperability is also crucial, applying technologies like [MyData](https://www.mydata.org/), [IDS](https://internationaldataspaces.org/), and [Solid](https://solidproject.org/) from a personal data perspective.
 
 Lastly, we seek to define the role of personal data intermediaries within IDS, placing individuals at the center of the data-sharing process, making it efficient, empowering, and inclusive for all.
 
