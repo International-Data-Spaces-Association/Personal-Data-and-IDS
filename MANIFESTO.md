@@ -1,14 +1,14 @@
 ## Introduction
-In today's data-driven world, the exchange of personal data is becoming increasingly prevalent. As technology advances and new standards emerge, it is vital to ensure that individual rights and privacy are adequately safeguarded. Our primary purpose is to define the existing mechanisms through which International Data Spaces (IDS) handles situations involving personal data and to envision how it should evolve to be more user-centric.
+In today's data-driven world, the exchange of personal data is becoming increasingly prevalent. As technology advances and new standards emerge, it is vital to ensure that individual rights and privacy are adequately safeguarded. Our primary purpose is to define the existing mechanisms through which International Data Spaces (IDS) handles situations involving personal data and to envision how it should evolve to be more human-centric.
 
 
-It is imperative to empower individuals not only to control and understand their personal data but also to derive personal and collective benefits from them. This manifesto, while deeply inspired by [MyData Global's Declaration](https://www.mydata.org/participate/declaration/), aligns with the objectives of the [Personal Data and IDS Sub Working Group](https://github.com/International-Data-Spaces-Association/Personal-Data-and-IDS), advocating for a user-centric and empowering data-sharing environment, as well as promoting data sovereignty of individuals over their data.
+It is imperative to empower individuals not only to control and understand their personal data but also to derive personal and collective benefits from them. This manifesto, while deeply inspired by [MyData Global's Declaration](https://www.mydata.org/participate/declaration/), aligns with the objectives of the [Personal Data and IDS Sub Working Group](https://github.com/International-Data-Spaces-Association/Personal-Data-and-IDS), advocating for a human-centric and empowering data-sharing environment, as well as promoting data sovereignty of individuals over their data.
 
 ## Vision
 We envision a digital society where individuals are at the center/forefront, able to have sovereignty over their data, understanding the implications and potential benefits of data sharing, and actively participating in the benefits yielded from their data.
 
 ## Mission
-Our mission is to explore and understand the intersection between the  IDS standard and the realm of personal data sharing. We aim to enhance the IDS's user-centric approach, identifying and addressing gaps to improve its effectiveness and inclusivity regarding personal data.
+Our mission is to explore and understand the intersection between the  IDS standard and the realm of personal data sharing. We aim to enhance the IDS's human-centric approach, identifying and addressing gaps to improve its effectiveness and inclusivity regarding personal data.
 
 We are dedicated to deepening our understanding of how IDS integrates personal data considerations and proposing practical solutions to overcome these challenges. Ensuring interoperability is also crucial, applying technologies like [MyData](https://www.mydata.org/), [IDS](https://internationaldataspaces.org/), and [Solid](https://solidproject.org/) from a personal data perspective.
 
@@ -17,7 +17,7 @@ Lastly, we seek to define the role of personal data intermediaries within IDS, p
 ## Objectives
 **Deep Understanding**: Delve into the IDS standard's handling of personal data, identifying gaps and proposing solutions for seamless integration.
 
-**User-Centric Approach**: Advocate for and implement practices where individuals have control, transparency, understanding, and the ability to derive benefits from their personal data within the IDS ecosystem.
+**Human-Centric Approach**: Advocate for and implement practices where individuals have control, transparency, understanding, and the ability to derive benefits from their personal data within the IDS ecosystem.
 
 **Collaborative Exploration**: Work collaboratively to explore the intersection of IDS standards and personal data, proposing inclusive and practical solutions to identified challenges.
 
