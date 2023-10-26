@@ -4,7 +4,7 @@ In today's data-driven world, the exchange of personal data is becoming increasi
 It is imperative to empower individuals and communities not only to control and understand their personal data but also to derive personal and collective benefits from them. This manifesto, deeply inspired by the [MyData Declaration](https://www.mydata.org/participate/declaration/), serves to align the objectives of the [Personal Data and IDS Sub Working Group](https://github.com/International-Data-Spaces-Association/Personal-Data-and-IDS), in advocating for human-centric and empowering data-sharing environments, as well as promoting data sovereignty of people over their data.
 
 ## Vision
-We envision a digital society where individuals are at the center/forefront, able to have sovereignty over data about themselves, understanding the implications and potential benefits of data sharing, and actively participating in the benefits yielded from personal data.
+We envision a digital society that fosters a level playing field, ensuring equal access to the value derived from data. In this society, individuals are at the forefront, fully aware of their positions regarding direct and indirect data resulting from their (digital) interactions. They are empowered to act autonomously, having sovereignty over their personal information. This understanding encompasses the implications and potential benefits of data sharing, enabling active participation in the advantages procured from personal data.
 
 ## Mission
 Our mission is to explore and understand the intersection between the IDS standard and the realm of personal data sharing. We aim to enhance the IDS's user-centric approach, identifying and addressing gaps to improve its effectiveness and inclusivity regarding personal data.
@@ -17,7 +17,7 @@ Lastly, we seek to understand and promote the role of personal data intermediari
 ## Objectives
 **Deep Understanding**: Delve into the IDS standard's existing mechanisms for handling of personal data, identifying gaps and proposing solutions for seamless integration.
 
-**Human-Centric Approach**: Advocate for and implement practices where individuals have control, transparency, understanding, and the ability to derive benefits from their personal data within the IDS ecosystem.
+**Human-Centric Autonomy**: Advocate for and implement practices where individuals have control, transparency, understanding, and the ability to derive benefits from their personal data within the IDS ecosystem.
 
 **Collaborative Exploration**: Work collaboratively to explore the intersection of IDS standards and personal data, proposing inclusive and practical solutions to identified challenges.
 
@@ -35,9 +35,9 @@ Advocate for open ecosystems where data flows freely, decided by individuals, pr
 ### 4. Transparency & Accountability
 Organizations, particularly those acting as data controllers under the GDPR, bear significant and primary responsibility for the personal data they handle. They must:
 
--	Have a legal ground to disclose personal data 
+-	Have a legal ground to disclose personal data.
 -	Consider anonymizing data where appropriate to protect individuals’ privacy.
--	To take care that the data subjects rights can be enforced 
--	To provide the appropriate technical and organisational means/mechanisms to guarantee GDPR compliance
+-	To take care that the data subjects rights can be enforced. 
+-	To provide the appropriate technical and organisational means/mechanisms to guarantee GDPR compliance, user privacy and personal data governance.
 
 In addition to these responsibilities, organizations should commit to transparency and accountability in their data practices. This commitment involves providing clear and understandable privacy terms and policies, thereby allowing individuals to have control and sovereignty over the use of their data. Through these practices, organizations not only comply with legal standards but also build trust with individuals whose data they handle.
