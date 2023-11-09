@@ -41,3 +41,7 @@ Organizations, particularly those acting as data controllers under the GDPR, bea
 -	To provide the appropriate technical and organisational means/mechanisms to guarantee GDPR compliance, user privacy and personal data governance.
 
 In addition to these responsibilities, organizations should commit to transparency and accountability in their data practices. This commitment involves providing clear and understandable privacy terms and policies, thereby allowing individuals to have control and sovereignty over the use of their data. Through these practices, organizations not only comply with legal standards but also build trust with individuals whose data they handle.
+
+---
+
+:point_right: This manifesto has been crafted with a human-centric touch by (in alphabetical order by last name): Gabriele Bozzi, Ferdinand Burgersdijk, Andreas Eisenrauch, Söntje Hilberg, Viivi Lähteenoja, Anil Turkmayali.
