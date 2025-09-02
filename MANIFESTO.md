@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. The work on Personal Data and IDS is discontinued. 
+
 ## Introduction
 In today's data-driven world, the exchange of personal data is becoming increasingly prevalent. As technology advances, new standards emerge, regulatory landscapes develop, and businesses increasingly rely on personal data for their operations and offerings, it is vital to ensure that individual rights and privacy are adequately safeguarded while people, communities, and societies at large reap the existing and potential value created by personal data use. Our primary purpose is to define the existing mechanisms through which International Data Spaces (IDS) handle situations involving personal data on the one hand, and to envision how they should evolve to be more human-centric: serving people as consumers, citizens, employees, service users, patients, learners, and so on.
 

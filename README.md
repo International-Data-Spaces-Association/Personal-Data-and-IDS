@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. The work on Personal Data and IDS is discontinued. 
+
 # 📚 Personal Data and IDS Sub Working Group
 Welcome to the Personal Data and IDS Sub Working Group! We are a group of professionals seeking to unravel the intricate relationship between the IDS (International Data Spaces) standard and personal data sharing. Our mission is to explore and comprehend the convergence of these domains, with a specific focus on how individuals play a pivotal role within the IDS ecosystem.
 
